@@ -98,7 +98,7 @@ Rather than relying on prebuilt machine-learning estimators, the notebooks imple
 the main calculations directly in Python. Each notebook also includes sample datasets,
 expected outputs, and visible test cells for validating the implementations.
 
-> **Project focus:** understanding how data-mining algorithms work internally—not only how to call them from a library.
+> **Project focus:** understanding how data-mining algorithms work internally without library use.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
